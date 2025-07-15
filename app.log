@@ -1,0 +1,4 @@
+2025-07-15 17:43:22,308 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 17:43:22,337 - INFO - User user_123 logged 2000 ml
+2025-07-15 17:46:53,169 - INFO - HTTP Request: POST https://api.groq.com/openai/v1/chat/completions "HTTP/1.1 200 OK"
+2025-07-15 17:46:53,180 - INFO - User user_123 logged 2000 ml
